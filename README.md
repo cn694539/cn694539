@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**cn694539/cn694539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Name
 
-Here are some ideas to get you started:
+Cian Comighod
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Photo of me :blush:
+
+### Year of Study
+
+Third Year
+
+### Major
+
+Psychology
+
+### Reason for enrolling in this course
+
+
+
+### What got me interested in psychology
+
+
+
+### Post-grad plans

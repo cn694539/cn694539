@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
-### Name
+### Name 🌷
 
 Cian Comighod
 
@@ -16,7 +16,7 @@ Third Year
 
 Psychology
 
-### Reason for enrolling in this course
+### Reason for enrolling in this course 😙
 
 I’ve always wanted to learn at least the basics of coding, and while I did try ~~and failed~~ to teach myself a few years back, I’m glad I enrolled in a class that would give actual structure and guidance. I also think it’s a useful skill both in research-based tasks as well as outside of academia.
 
